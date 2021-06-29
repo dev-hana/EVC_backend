@@ -10,6 +10,9 @@
 :sparkles: 김초롱(chorong4641)  
 :sparkles: 최우석(e3hope)  
 
+#### 시연 영상  
+[![Video Label](http://img.youtube.com/vi/MipZu8r4hnM/0.jpg)](https://www.youtube.com/watch?v=MipZu8r4hnM)
+
 #### Version
 ![image](https://user-images.githubusercontent.com/46733911/123727334-70a93f00-d8cc-11eb-8e1d-074369fc6198.png)
 
