@@ -20,7 +20,7 @@
 
 ###  :grey_exclamation: 주의사항  
 
-:heavy_check_mark: 전기차 충전소 서비스 및 KaKao MAP API 서비스 Key는 대문자 영어로 변경하였으니 해당 Key를 받으셔서 사용하시기 바랍니다.  
+:key: 전기차 충전소 서비스 및 KaKao MAP API 서비스 Key는 대문자 영어로 변경하였으니 해당 Key를 받으셔서 사용하시기 바랍니다.  
 [전기차 충전소 API](https://www.data.go.kr/data/3068728/openapi.do)  
 [KaKao MAP API](https://apis.map.kakao.com/web/guide/)   
 - 변경부분:  
