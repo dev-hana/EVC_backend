@@ -5,15 +5,15 @@
 2021 web project(<img src="https://img.shields.io/badge/Node.js-85bd0c?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-006400?style=flat-square&logo=Vue.js&logoColor=white"/> )  
 
 
-#### Contributors  
+#### :muscle: Contributors  
 :sparkles: 장지은(dev-hana)  
 :sparkles: 김초롱(chorong4641)  
 :sparkles: 최우석(e3hope)  
 
-#### 시연 영상  
+#### :clapper: 시연 영상  
 [![Video Label](http://img.youtube.com/vi/MipZu8r4hnM/0.jpg)](https://www.youtube.com/watch?v=MipZu8r4hnM)
 
-#### Version
+#### :memo: Version
 ![image](https://user-images.githubusercontent.com/46733911/123727334-70a93f00-d8cc-11eb-8e1d-074369fc6198.png)
 
 
