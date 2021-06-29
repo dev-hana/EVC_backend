@@ -34,7 +34,7 @@
 
 :heavy_check_mark: 현재 위치 정보에 대한 기술은 주석 꼭 참고 바람  `src/components/map.vue` 74행부터
 
-:heavy_check_mark: Grafana는 추후 서비스 종료 예(iframe부분)   
+:heavy_check_mark: Grafana는 추후 서비스 종료(iframe부분)   
 
 :heavy_check_mark: mysql dump 추후 업데이트  
 
