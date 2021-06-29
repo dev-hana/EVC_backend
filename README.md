@@ -22,7 +22,7 @@
 [KaKao MAP API](https://apis.map.kakao.com/web/guide/)   
 - 변경부분:  
 [EVC_backend](https://github.com/dev-hana/EVC_backend) `routes/evInfo.js`  
-[EVC_frontend](https://github.com/dev-hana/EVC_frontend)`index.html` `routes/map.vue`  
+[EVC_frontend](https://github.com/dev-hana/EVC_frontend)`index.html` `src/components/map.vue`  
 
 
 이메일 및 Mysql, Mongo DB정보도 변경하여 사용하시기 바랍니다.
