@@ -42,13 +42,15 @@
 
 
 ### 서버 실행 
-`git clone https://github.com/dev-hana/EVC_frontend`  
-`git clone https://github.com/dev-hana/EVC_backend`  
-`cd EVC_backend`  
-`npm install`  
-`cd ../EVC_frontend`  
-`npm install`  
-`npm run serve`  
-`npm run build`  
-`cd ../EVC_backend`  
-`npm start`  
+```
+git clone https://github.com/dev-hana/EVC_frontend
+git clone https://github.com/dev-hana/EVC_backend 
+cd EVC_backend
+npm install 
+cd ../EVC_frontend 
+npm install
+npm run serve 
+npm run build
+cd ../EVC_backend
+npm start
+```
