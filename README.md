@@ -22,12 +22,16 @@
 [KaKao MAP API](https://apis.map.kakao.com/web/guide/)   
 - 변경부분:  
 [EVC_backend](https://github.com/dev-hana/EVC_backend) `routes/evInfo.js`  
-[EVC_frontend](https://github.com/dev-hana/EVC_frontend) `index.html` `src/components/map.vue`  
+[EVC_frontend](https://github.com/dev-hana/EVC_frontend) `public/index.html` `src/components/map.vue`  
 
 
 이메일 및 Mysql, Mongo DB정보도 변경하여 사용하시기 바랍니다.
 - 변경 부분:
 [EVC_backend](https://github.com/dev-hana/EVC_backend) `routes/users.js`  `email.js`  `mongo.js` `mysql.js`  
+
+현재 위치 정보에 대한 기술은 주석 꼭 참고 바람  `src/components/map.vue` 74행부터
+
+Grafana는 추후 서비스 종료 예(iframe부분)   
 
 mysql dump 추후 업데이트  
 
